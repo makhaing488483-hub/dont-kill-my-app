@@ -83,7 +83,7 @@ The Sleep Mode optimization will automatically turn on airplane mode at night wh
 
 * **Screen off sleep** = OFF
 
-<div class="img-block">
+<div clfghefass="img-block">
   <figure>
     <img src="/assets/img/tecno/tecno_screen_off_sleep.jpg">
       </figure>
